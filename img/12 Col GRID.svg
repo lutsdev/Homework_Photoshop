@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1170" height="420" viewBox="0 0 1170 420">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f9d4e4;
+        fill-rule: evenodd;
+        opacity: 0.1;
+      }
+    </style>
+  </defs>
+  <path id="_12_Col_GRID" data-name="12 Col GRID" class="cls-1" d="M375,420h70V-8229H375V420ZM475-8229V420h70V-8229H475Zm100,0V420h70V-8229H575Zm100,0V420h70V-8229H675Zm100,0V420h70V-8229H775Zm100,0V420h70V-8229H875ZM975,420h70V-8229H975V420Zm100,0h70V-8229h-70V420Zm100,0h70V-8229h-70V420Zm100,0h70V-8229h-70V420Zm100,0h70V-8229h-70V420Zm100,0h70V-8229h-70V420Z" transform="translate(-375)"/>
+</svg>
